@@ -1,0 +1,22 @@
+{
+  "common": {
+    "welcome": "مرحباً بك في تعليق",
+    "selectLanguage": "اختر لغة الموقع",
+    "login": "تسجيل الدخول",
+    "register": "تسجيل جديد",
+    "profile": "الملف الشخصي",
+    "settings": "الإعدادات"
+  },
+  "languages": {
+    "ar": "العربية",
+    "ber": "الأمازيغية",
+    "fr": "الفرنسية",
+    "en": "الإنجليزية",
+    "es": "الإسبانية"
+  },
+  "commentator": {
+    "primaryLanguage": "لغة التعليق الأساسية",
+    "secondaryLanguage": "لغة التعليق الثانوية",
+    "proficiencyLevel": "مستوى الإتقان"
+  }
+}

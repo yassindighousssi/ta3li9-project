@@ -1,0 +1,57 @@
+{
+  "users": [
+    {
+      "username": "commentator1",
+      "email": "commentator@ta3li9.com",
+      "password": "Password123!",
+      "fullName": "معلق رياضي",
+      "role": "commentator",
+      "isVisuallyImpaired": false,
+      "bio": "معلق رياضي محترف مع خبرة 10 سنوات في التعليق على مباريات كرة القدم",
+      "preferredAudioSettings": {
+        "volume": 1.0,
+        "speed": 1.0,
+        "pitch": 1.0
+      }
+    },
+    {
+      "username": "blinduser1",
+      "email": "blind@ta3li9.com",
+      "password": "Password123!",
+      "fullName": "مستخدم كفيف",
+      "role": "user",
+      "isVisuallyImpaired": true,
+      "preferredAudioSettings": {
+        "volume": 1.2,
+        "speed": 0.9,
+        "pitch": 1.0
+      }
+    },
+    {
+      "username": "admin1",
+      "email": "admin@ta3li9.com",
+      "password": "AdminPass123!",
+      "fullName": "مدير النظام",
+      "role": "admin",
+      "isVisuallyImpaired": false,
+      "preferredAudioSettings": {
+        "volume": 1.0,
+        "speed": 1.0,
+        "pitch": 1.0
+      }
+    },
+    {
+      "username": "user1",
+      "email": "user@ta3li9.com",
+      "password": "UserPass123!",
+      "fullName": "مستخدم عادي",
+      "role": "user",
+      "isVisuallyImpaired": false,
+      "preferredAudioSettings": {
+        "volume": 1.0,
+        "speed": 1.0,
+        "pitch": 1.0
+      }
+    }
+  ]
+}
